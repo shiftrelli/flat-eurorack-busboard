@@ -6,6 +6,7 @@ free to use copy change manufacture and distribute
 
 BOM
 2x 1k 0804 resistor
+
 1x 220 0804 resistor
 2x led red 0804
 1x led green 0804
