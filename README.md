@@ -1,5 +1,10 @@
 # flat-eurorack-busboard
+
+![](https://raw.githubusercontent.com/shiftrelli/flat-eurorack-busboard/master/flat%20back%20eurorack%20busboard.jpg)
+
 A flat back Eurorack Busboard
+
+406x30mm
 
 free to use copy change manufacture and distribute
 
